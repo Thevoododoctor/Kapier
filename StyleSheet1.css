@@ -1,0 +1,23 @@
+﻿body
+{
+}
+
+nav#top ul {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row nowrap;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    align-items: center;
+    height: 50px;
+}
+
+nav#top ul li {
+    -webkit-flex: 0 1 80px;
+    margin: 10px;
+}
+
+nav#top ul li a {
+    color:
+}
