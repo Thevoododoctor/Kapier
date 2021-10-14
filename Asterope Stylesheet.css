@@ -19,5 +19,14 @@ nav#top ul li {
 }
 
 nav#top ul li a {
-    color:
+    color: white;
+    display: block;
+    font-size: 1.2em;
+    text-align: center;
+    padding: 50% 0%;
+}
+
+nav#top ul li a:hover, canvas#top ul li a:active {
+    color: rgb(255, 0, 0);
+    text-shadow: 0px 0px 2px black, 0px 0px 15px white;
 }
