@@ -1,10 +1,13 @@
-﻿body {
-    color:black;
+﻿@charset "utf-8";
+
+body {
+    background-color:white;
 }
 
 nav#top ul {
     display: -webkit-flex;
     display: flex;
+    flex-flow: ;
     -webkit-flex-flow: row nowrap;
     -webkit-justify-content: center;
     justify-content: center;
