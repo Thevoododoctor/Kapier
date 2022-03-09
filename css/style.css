@@ -1766,9 +1766,11 @@ input[type="radio"] .styled:checked+label::after {
 	margin-bottom: 20px;
 }
 
-.infomercial {
-
-}
+.center {
+	margin: auto;
+	border: 3px solid #cc8323;
+	padding: 10px;
+  }
 
 .about .img-box {
 	text-align: center;
